@@ -1,11 +1,11 @@
 TORTA
 
 Ingredientes
-- Huevos
-- Vainilla
 - Mantequilla
 - Huevos
 - Harina
+- leche
+- esencia de vainilla
 Pasos para hacer
 -
 -
